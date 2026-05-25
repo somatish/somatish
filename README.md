@@ -1,6 +1,6 @@
 Hello, I'm Somatish Ghosh
 
-### 🚀 3rd Year Student & Aspiring Frontend Developer
+### 🚀 3rd Year Student & Aspiring Software Developer
 Entry-level B.Tech (Information Technology) student with hands-on exposure to AI-enabled web solutions, DBMS
 concepts, and software engineering fundamentals. Seeking placement opportunities in software development and datafocused roles where I can apply my technical knowledge to contribute effectively into projects, gain hands-on experience,
 and develop practical skills with continuous learning and professional development in a dynamic IT industry
