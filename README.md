@@ -13,7 +13,7 @@ and develop practical skills with continuous learning and professional developme
 - Coursework : Data Structures and Algorithms, DBMS, Software Engineering
 - Languages : C, Core Java (Basic), SQL, Python (Basic), SAP ABAP (Basic)
 - Databases : MySQL, Oracle
-- Tools/Technologies : HTML, CSS, JavaScript, Machine Learning basics, React basics, Strapi basics 
+- Tools/Technologies : HTML, CSS, JavaScript, Machine Learning basics
 
 ---
 
