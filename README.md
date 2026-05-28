@@ -20,12 +20,14 @@ and develop practical skills with continuous learning and professional developme
 ### 💻 Key Projects
 
 #### 📂 FUTURE-SCOPE AI (Team Project) | [Live Demo](https://project-3-6lx7.onrender.com) | [GitHub](https://github.com/somatish/Project-3-Future---Scope-AI)
+Tech Stack : Python, XGBoost, Rest API, Feature Engineering, Redis, PostgreSQL, R&D
 *Predictive Career Analytics Platform Engine — Frontend & R&D *
 - Led the initial Research & Development (R&D) phase to scope user workflows and map platform requirements.
 - Designed and built the core user-interface structure from scratch using clean, responsive HTML and CSS.
 - Spearheaded the technical migration of the static UI framework into React components (with AI support) to ensure smooth, modular backend integration for the engineering team.
 
 #### 📂 SHOPEASYY INDIA - Bharat Ki Apni Dukan | [Live Demo](https://somatish.github.io/SHOPEasyy/) | [GitHub](https://github.com/somatish/SHOPEasyy)
+Tech Stack : HTML, CSS, JavaScript
 *Localized E-Commerce Web Interface — Independent Developer*
 - Built a responsive e-commerce user interface inspired by leading online shopping platforms.
 - Implemented client-side regional-language translation workflows across the platform using HTML, CSS, and JavaScript.
