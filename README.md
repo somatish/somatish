@@ -33,7 +33,7 @@ and develop practical skills with continuous learning and professional developme
 - Implemented BMI calculation, calorie monitoring, onboarding workflow, dark/light theme support, and responsive UI using React and TypeScript
 - Built an AI-assisted food logging feature using the Google Gemini API. Users can upload an image of a meal, and the application leverages Gemini's image understanding capabilities with custom prompts to identify the     food item and estimate its calorie content.
 - Built REST API integration with Strapi CMS and SQLite for secure data management and real-time user progress tracking.
-- Tech Stack - React, TypeScript, Strapi, SQLite, TailWind CSS
+- Tech Stack - React, TypeScript, Strapi, SQLite, Tailwind CSS
 
   
 ---
