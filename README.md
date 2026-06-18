@@ -21,16 +21,20 @@ and develop practical skills with continuous learning and professional developme
 
 #### 📂 FUTURE-SCOPE AI (Team Project) | [Live Demo](https://project-3-6lx7.onrender.com) | [GitHub](https://github.com/somatish/Project-3-Future---Scope-AI)
 *Predictive Career Analytics Platform Engine — Frontend & R&D *
-- Led the initial Research & Development (R&D) phase to scope user workflows and map platform requirements.
-- Designed and built the core user-interface structure from scratch using clean, responsive HTML and CSS.
-- Spearheaded the technical migration of the static UI framework into React components (with AI support) to ensure smooth, modular backend integration for the engineering team.
+- Led the initial Research & Development (R&D) phase to scope user workflows and map platform requirements
+- Designed and built the core user-interface structure from scratch using clean, responsive HTML and CSS
+- Spearheaded the technical migration of the static UI framework into React components (with AI support) to ensure smooth, modular backend integration for the engineering team
 - Tech Stack : Python, XGBoost, Rest API, Feature Engineering, Redis, PostgreSQL, R&D
 
-#### 📂 SHOPEASYY INDIA - Bharat Ki Apni Dukan | [Live Demo](https://somatish.github.io/SHOPEasyy/) | [GitHub](https://github.com/somatish/SHOPEasyy)
+
+#### 📂 FitMetrix - Your Daily Fitness Tracker (Individual Project) | [Live Demo](https://fitness-tracker-rust-chi.vercel.app) | [GitHub](https://github.com/somatish/vite-project)
 *Localized E-Commerce Web Interface — Independent Developer*
-- Built a responsive e-commerce user interface inspired by leading online shopping platforms.
-- Implemented client-side regional-language translation workflows across the platform using HTML, CSS, and JavaScript.
-- Tech Stack : HTML, CSS, JavaScript
+- Developed a full-stack fitness tracking application with user authentication, profile management, food logging, and activity tracking features
+- Implemented BMI calculation, calorie monitoring, onboarding workflow, dark/light theme support, and responsive UI using React and TypeScript
+- Built an AI-assisted food logging feature using the Google Gemini API. Users can upload an image of a meal, and the application leverages Gemini's image understanding capabilities with custom prompts to identify the     food item and estimate its calorie content.
+- Built REST API integration with Strapi CMS and SQLite for secure data management and real-time user progress tracking.
+- Tech Stack - React, TypeScript, Strapi, SQLite, TailWind CSS
+
   
 ---
 
