@@ -10,10 +10,11 @@ and develop practical skills with continuous learning and professional developme
 
 ### 🧰 Tech Stack & Tools
 
-- Coursework : Data Structures and Algorithms, DBMS, Software Engineering
-- Languages : C, Core Java (Basic), SQL, Python (Basic), SAP ABAP (Basic)
-- Databases : MySQL, Oracle
-- Tools/Technologies : HTML, CSS, JavaScript, Machine Learning basics
+- Coursework: Data Structures and Algorithms, DBMS, OOPs (Java), Software Engineering
+- Languages: C, Java, SQL, SAP ABAP (Basic)
+- Frameworks/APIs: React, Tailwind CSS, REST APIs, Strapi CMS, Google Gemini API
+- Databases: MySQL, Oracle, SQLite
+- Tools and Technologies: VSCode, SAP GUI, Oracle SQL Developer, Git, GitHub
 
 ---
 
